@@ -26,7 +26,9 @@
   <img src="https://img.shields.io/badge/-Windows-3CB7F9?style=for-the-badge&logo=windows&logoColor=FFFFFF"/>
 </div>
 
-## About me
+## 📖 About me
+l![BooksReadGIF](https://user-images.githubusercontent.com/86867653/180811936-00869bc8-3c8d-4578-af75-bbfeb1013e54.gif)
+
 - 🔭 I’m currently working on Nakama bot
 - 🌱 I’m currently learning Dart for Flutter, Go for my upcoming API
 - 💬 Ask me about Python !
