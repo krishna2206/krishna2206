@@ -1,6 +1,6 @@
 ### Hey, I'm Krishna 👋
 <h1 align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=Chatbot%2C%20Web%20scraping%2C%20Automation%3BPython%2C%20Dart%2C%20Go%3BLinux%20lover%F0%9F%90%A7%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F" alt="">
+  <img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=21&center=true&vCenter=true&lines=Chatbot%2C%20Web%20scraping%2C%20Automation%3BPython%2C%20Dart%2C%20Go%3BLinux%20lover%F0%9F%90%A7%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F" alt="">
 </h1>
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
