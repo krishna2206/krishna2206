@@ -32,7 +32,7 @@
 - 💬 Ask me about Python !
 - 📫 How to reach me: fitiavana.krishna@gmail.com
 ## 📈 My stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna2206)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna2206&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
