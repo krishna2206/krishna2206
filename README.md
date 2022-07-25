@@ -27,7 +27,10 @@
 </div>
 
 ## 📖 About me
-l![BooksReadGIF](https://user-images.githubusercontent.com/86867653/180811936-00869bc8-3c8d-4578-af75-bbfeb1013e54.gif)
+
+<div align=left>
+  l![BooksReadGIF](https://user-images.githubusercontent.com/86867653/180811936-00869bc8-3c8d-4578-af75-bbfeb1013e54.gif)
+</div
 
 - 🔭 I’m currently working on Nakama bot
 - 🌱 I’m currently learning Dart for Flutter, Go for my upcoming API
