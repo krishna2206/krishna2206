@@ -29,14 +29,14 @@
 ## 📖 About me
 
 <div>
-  <div style="display: inline">
+  <div style="display: inline;">
     - 🔭 I’m currently working on Nakama bot <br>
     - 🌱 I’m currently learning Dart for Flutter, Go for my upcoming API <br>
     - 💬 Ask me about Python ! <br>
     - 📫 How to reach me: fitiavana.krishna@gmail.com
   </div>
 
-  <div style="display: inline">
+  <div style="display: inline;">
     <img src="https://user-images.githubusercontent.com/86867653/180811936-00869bc8-3c8d-4578-af75-bbfeb1013e54.gif">
   </div
 </div>
