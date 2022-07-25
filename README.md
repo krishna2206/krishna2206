@@ -28,7 +28,7 @@
 
 ## 📖 About me
 
-<div align=left>
+<div align=right>
   <img src="https://user-images.githubusercontent.com/86867653/180811936-00869bc8-3c8d-4578-af75-bbfeb1013e54.gif">
 </div
 
