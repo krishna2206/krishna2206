@@ -1,5 +1,5 @@
 <h1 align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=20&center=true&vCenter=true&lines=Hey%20I%27m%20Krishna%20%F0%9F%91%8B;Web+scraping%2C+Chatbot%2C+Automation;Python%2C+Dart%2C+Go;Linux+lover🐧❤️" alt="">
+  <img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=20&center=true&vCenter=true&lines=Hey%2C%20I%27m%20Krishna%20%F0%9F%91%8B;Web+scraping%2C+Chatbot%2C+Automation;Python%2C+Dart%2C+Go;Linux+lover🐧❤️" alt="">
 </h1>
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
