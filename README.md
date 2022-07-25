@@ -1,4 +1,4 @@
-<p align=center>
+<p align=center style="font-size: 32px; font-weight: bold;">
   Hey, I'm Krishna 👋
 </p>
 
