@@ -30,9 +30,9 @@
 
 <div>
   <div style="display: inline">
-    - 🔭 I’m currently working on Nakama bot
-    - 🌱 I’m currently learning Dart for Flutter, Go for my upcoming API
-    - 💬 Ask me about Python !
+    - 🔭 I’m currently working on Nakama bot <br>
+    - 🌱 I’m currently learning Dart for Flutter, Go for my upcoming API <br>
+    - 💬 Ask me about Python ! <br>
     - 📫 How to reach me: fitiavana.krishna@gmail.com
   </div>
 
