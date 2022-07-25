@@ -1,4 +1,6 @@
-<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=Webscraping%2C+Chatbot%2C+Automation;Python%2C+Dart%2C+Go;Linux+lover🐧❤️" alt=""></h1>
+<h1 align=center>
+  <img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%teal&size=23&center=true&vCenter=true&lines=Web+scraping%2C+Chatbot%2C+Automation;Python%2C+Dart%2C+Go;Linux+lover🐧❤️" alt="">
+</h1>
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
