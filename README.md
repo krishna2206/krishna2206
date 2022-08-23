@@ -1,11 +1,11 @@
 <p align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&color=%teal&size=20&center=true&vCenter=true&lines=Chatbot%2C%20Web%20scraping%2C%20Automation%3BPython%2C%20Dart%2C%20Go%3BLinux%20lover%F0%9F%90%A7%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F" alt="">
+  <img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&color=%teal&size=20&center=true&vCenter=true&lines=Chatbot%2C%20Web%20scraping%2C%20Automation%3BPython%2C%20Dart%2C%20Go%3BLinux%F0%9F%90%A7%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F" alt="">
 </p>
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 <h1 align=center>
-  Hey, I'm Krishna 👋
+  Hello, I'm Krishna 👋
 </h1>
 
 <div align="center">
@@ -19,7 +19,9 @@
   <img src="https://img.shields.io/badge/-JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-PHP-1E87E3?style=for-the-badge&logo=php&logoColor=FFFFFF"/>
   <br>
+  <!-- Bientôt
   <img src="https://img.shields.io/badge/-Go-00A7D0?&style=for-the-badge&logo=go&logoColor=FFFFFF"/>
+  -->
   <img src="https://img.shields.io/badge/-Dart-00CBB2?style=for-the-badge&logo=dart&logoColor=FFFFFF"/>
   <br>
   <img src="https://img.shields.io/badge/-Linux-F9F63C?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
@@ -28,7 +30,7 @@
 
 ## 📖 About me
 - 🔭 I’m currently working on Nakama bot
-- 🌱 I’m currently learning Dart for Flutter, Go for my upcoming API
+- 🌱 I’m currently learning Dart for Flutter
 - 💬 Ask me about Python
 - 📫 How to reach me: fitiavana.krishna@gmail.com
 ## 📈 My stats
