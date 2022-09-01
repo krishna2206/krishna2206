@@ -19,9 +19,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-PHP-1E87E3?style=for-the-badge&logo=php&logoColor=FFFFFF"/>
   <br>
-  <!-- Bientôt
   <img src="https://img.shields.io/badge/-Go-00A7D0?&style=for-the-badge&logo=go&logoColor=FFFFFF"/>
-  -->
   <img src="https://img.shields.io/badge/-Dart-00CBB2?style=for-the-badge&logo=dart&logoColor=FFFFFF"/>
   <br>
   <img src="https://img.shields.io/badge/-Linux-F9F63C?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
@@ -30,7 +28,7 @@
 
 ## 📖 About me
 - 🔭 I’m currently working on Nakama bot
-- 🌱 I’m currently learning Dart for Flutter
+- 🌱 I’m currently learning Dart/Flutter and Go
 - 💬 Ask me about Python
 - 📫 How to reach me: fitiavana.krishna@gmail.com
 ## 📈 My stats
