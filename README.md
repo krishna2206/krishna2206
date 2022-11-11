@@ -52,8 +52,9 @@
   <img src="https://img.shields.io/badge/Gmail-c5221e.svg?logo=Gmail&logoColor=white"> : fitiavana.krishna@gmail.com
 </a>
 
-## 📈 My stats
-[![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna2206&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## 📈 GitHub stats
+![](https://github-readme-stats.vercel.app/api?username=krishna2206&count_private=true&show_icons=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=krishna2206&theme=tokyonight&hide_border=false)
 
 <!--
 **krishna2206/krishna2206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
