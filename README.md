@@ -9,28 +9,49 @@
 </h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Selenium-16C636?style=for-the-badge&logo=selenium&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-Python-396E9B?style=for-the-badge&logo=python&logoColor=FFFFFF"/> 
   <img src="https://img.shields.io/badge/-Chatbot-1BEFCF?style=for-the-badge&logo=chatbot&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-MongoDB-00E661?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Automation-35238D?style=for-the-badge&logo=chatbot&logoColor=FFFFFF"/>
   <br>
+  <img src="https://img.shields.io/badge/-Python-396E9B?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-HTML-E44D26?&style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-CSS-42A5F5?&style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-PHP-1E87E3?style=for-the-badge&logo=php&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Java-E54C44?style=for-the-badge&logo=java&logoColor=FFFFFF"/>
+  <br>
+  <img src="https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Symfony-000?style=for-the-badge&logo=symfony&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Selenium-16C636?style=for-the-badge&logo=selenium&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Playwright-1B1B1D?style=for-the-badge&logo=playwright&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Flutter-5AC2F0?style=for-the-badge&logo=flutter&logoColor=FFFFFF"/>
+  <br>
+  <img src="https://img.shields.io/badge/-MongoDB-00E661?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-MySQL-005E86?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=FFFFFF"/>
   <br>
   <img src="https://img.shields.io/badge/-Go-00A7D0?&style=for-the-badge&logo=go&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Dart-00CBB2?style=for-the-badge&logo=dart&logoColor=FFFFFF"/>
   <br>
-  <img src="https://img.shields.io/badge/-Linux-F9F63C?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-Windows-3CB7F9?style=for-the-badge&logo=windows&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Ubuntu-D64613?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Manjaro%20Linux-33B959?style=for-the-badge&logo=manjaro&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Windows-357EC7?style=for-the-badge&logo=windows&logoColor=FFFFFF"/>
 </div>
 
 ## 📖 About me
 - 🔭 I’m currently working on Nakama bot
-- 🌱 I’m currently learning Dart/Flutter and Go
+- 🌱 I’m currently learning Dart/Flutter and Front-end web development
 - 💬 Ask me about Python
-- 📫 How to reach me: fitiavana.krishna@gmail.com
+
+## 📫 How to reach me
+<a style="text-decoration: none;" href="https://web.facebook.com/fitiavana.leonheart">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"> : https://web.facebook.com/fitiavana.leonheart
+</a>
+<br>
+<a style="text-decoration: none;" href="https://web.facebook.com/fitiavana.leonheart">
+  <img src="https://img.shields.io/badge/Gmail-c5221e.svg?logo=Gmail&logoColor=white"> : fitiavana.krishna@gmail.com
+</a>
+
 ## 📈 My stats
 [![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna2206&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
