@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"> : https://web.facebook.com/fitiavana.leonheart
 </a>
 <br>
-<a style="text-decoration: none;" href="https://web.facebook.com/fitiavana.leonheart">
+<a style="text-decoration: none;" href="mailto:fitiavana.krishna@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-c5221e.svg?logo=Gmail&logoColor=white"> : fitiavana.krishna@gmail.com
 </a>
 
