@@ -3,7 +3,6 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
-
 <h1 align=center>
   Hello, I'm Krishna 👋
 </h1>
@@ -53,8 +52,10 @@
 </a>
 
 ## 📈 GitHub stats
-![](https://github-readme-stats.vercel.app/api?username=krishna2206&count_private=true&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=krishna2206&theme=tokyonight&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishna2206&count_private=true&show_icons=true&theme=tokyonight"><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna2206&theme=tokyonight&hide_border=false">
+</p>
 
 <!--
 **krishna2206/krishna2206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
