@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/-Symfony-000?style=for-the-badge&logo=symfony&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Selenium-16C636?style=for-the-badge&logo=selenium&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Playwright-1B1B1D?style=for-the-badge&logo=playwright&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-Flutter-5AC2F0?style=for-the-badge&logo=flutter&logoColor=FFFFFF"/>
   <br>
   <img src="https://img.shields.io/badge/-MongoDB-00E661?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-MySQL-005E86?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/>
@@ -31,6 +30,8 @@
   <br>
   <img src="https://img.shields.io/badge/-Go-00A7D0?&style=for-the-badge&logo=go&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Dart-00CBB2?style=for-the-badge&logo=dart&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Flutter-5AC2F0?style=for-the-badge&logo=flutter&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61dbfb"/>
   <br>
   <img src="https://img.shields.io/badge/-Ubuntu-D64613?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Manjaro%20Linux-33B959?style=for-the-badge&logo=manjaro&logoColor=FFFFFF"/>
