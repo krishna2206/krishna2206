@@ -39,7 +39,7 @@
 
 ## 📖 About me
 - 🔭 I’m currently working on Nakama bot
-- 🌱 I’m currently learning Dart/Flutter and Front-end web development
+- 🌱 I’m currently learning React
 - 💬 Ask me about Python
 
 ## 📫 How to reach me
