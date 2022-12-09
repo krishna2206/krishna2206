@@ -54,7 +54,8 @@
 ## 📈 GitHub stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishna2206&count_private=true&show_icons=true&theme=tokyonight"><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna2206&theme=tokyonight&hide_border=false">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna2206&theme=tokyonight&hide_border=false"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna2206&layout=compact&theme=tokyonight&langs_count=8">
 </p>
 
 <!--
