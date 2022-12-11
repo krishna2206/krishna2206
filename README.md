@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&color=%teal&size=20&center=true&vCenter=true&lines=Chatbot%2C%20Web%20scraping%2C%20Automation%3BPython%2C%20Dart%2C%20Go%3BLinux%F0%9F%90%A7%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F" alt="">
+  <img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&color=%teal&size=20&center=true&vCenter=true&lines=Chatbot%2C%20Web%20scraping%2C%20Automation%3BPython%20is%20the%20best%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%3BLinux%F0%9F%90%A7%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F" alt="">
 </p>
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=3B3931"/>
   <img src="https://img.shields.io/badge/-PHP-1E87E3?style=for-the-badge&logo=php&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Java-E54C44?style=for-the-badge&logo=java&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Dart-00CBB2?style=for-the-badge&logo=dart&logoColor=FFFFFF"/>
   <br>
   <img src="https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
@@ -27,11 +28,6 @@
   <img src="https://img.shields.io/badge/-MongoDB-00E661?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-MySQL-005E86?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=FFFFFF"/>
-  <br>
-  <img src="https://img.shields.io/badge/-Go-00A7D0?&style=for-the-badge&logo=go&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-Dart-00CBB2?style=for-the-badge&logo=dart&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-Flutter-5AC2F0?style=for-the-badge&logo=flutter&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61dbfb"/>
   <br>
   <img src="https://img.shields.io/badge/-Ubuntu-D64613?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Manjaro%20Linux-33B959?style=for-the-badge&logo=manjaro&logoColor=FFFFFF"/>
