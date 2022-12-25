@@ -31,6 +31,20 @@
   
 </div>
 
+<h2 align=center>
+  Hello, I'm Krishna 👋
+  <br>
+  <br>
+  <p align="center">
+  <a style="text-decoration: none; outline: none;" href="https://web.facebook.com/fitiavana.leonheart">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Facebook_icon_%28black%29.svg/2048px-Facebook_icon_%28black%29.svg.png" width=54>
+  </a>
+  <a style="text-decoration: none; outline: none;" href="mailto:fitiavana.krishna@gmail.com">
+    <img src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png" width=54>
+  </a>
+</p>
+</h2>
+
 
 ### 👤 Who I am ?
 I'm a software engineering student with a passion for **elegant syntax and clean code**. I mainly code in [Python](https://www.python.org), and I'm always on the lookout for technologies and tools that improve the developer experience.
@@ -83,16 +97,6 @@ So, follow me on my journey as I learn and grow as a developer 🌠
   <img src="https://img.shields.io/badge/-Manjaro%20Linux-33B959?style=for-the-badge&logo=manjaro&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Windows-357EC7?style=for-the-badge&logo=windows&logoColor=FFFFFF"/>
 </div>
-
-### 📫 How to reach me
-<p align="center">
-<a style="text-decoration: none;" href="https://web.facebook.com/fitiavana.leonheart">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Facebook_icon_%28black%29.svg/2048px-Facebook_icon_%28black%29.svg.png" width=64>
-</a>
-<a style="text-decoration: none;" href="mailto:fitiavana.krishna@gmail.com">
-  <img src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png" width=64>
-</a>
-</p>
 
 ### 📈 GitHub stats
 <p align="center">
