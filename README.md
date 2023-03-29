@@ -75,6 +75,7 @@ So, follow me on my journey as I learn and grow as a developer 🌠
   <img src="https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Symfony-000?style=for-the-badge&logo=symfony&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Laravel-171923?style=for-the-badge&logo=laravel&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Selenium-16C636?style=for-the-badge&logo=selenium&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Playwright-1B1B1D?style=for-the-badge&logo=playwright&logoColor=FFFFFF"/>
   <br>
