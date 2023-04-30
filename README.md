@@ -56,8 +56,8 @@ And above all I love to learn new things and am constantly curious about the IT 
 So, follow me on my journey as I learn and grow as a developer 🌠
 
 <ul style="text-align:center;">
-  <li>🔭 I’m currently working on Nakama bot</li>
-  <li>🌱 I’m currently learning React</li>
+  <li>🔭 I’m currently working on my school projects</li>
+  <li>🌱 I’m currently learning Go</li>
   <li>💬 Ask me about Python</li>
 </ul>
 
