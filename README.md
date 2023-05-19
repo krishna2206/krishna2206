@@ -1,13 +1,4 @@
-<div align="center">
-  <img src="https://cdn.myanimelist.net/s/common/uploaded_files/1446394608-91d452a88161df22ebe98de2b680e5a6.jpeg" />
-  <br>
-  <br>
-  <p>
-    "𝐈 𝐜𝐚𝐧'𝐭 𝐭𝐞𝐥𝐥 𝐢𝐟 𝐈 𝐡𝐚𝐯𝐞 𝐭𝐚𝐥𝐞𝐧𝐭 𝐨𝐫 𝐧𝐨𝐭 𝐮𝐧𝐭𝐢𝐥 𝐈 𝐭𝐫𝐲."<br>
-    - 𝑆𝑒𝑖𝑗𝑖 𝐴𝑚𝑎𝑠𝑎𝑤𝑎, 𝑊ℎ𝑖𝑠𝑝𝑒𝑟 𝑜𝑓 𝑡ℎ𝑒 𝐻𝑒𝑎𝑟𝑡
-  </p>
-  
-  <!--
+<!--
   <p align=center>
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&color=%teal&size=20&center=true&vCenter=true&lines=Chatbot%2C%20Web%20scraping%2C%20Automation%3BPython%20is%20the%20best%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%3BLinux%F0%9F%90%A7%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F" alt="">
   </p>
@@ -28,7 +19,15 @@
     </p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=276CC9&width=435&lines=The+name's+%F0%9D%90%8A%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%A1%F0%9D%90%A7%F0%9D%90%9A;21+years+old;He%2FHim;Python+developer;Chatbot%2C+Web+scraping%2C+Automation;Linux+user+%F0%9F%90%A7%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
   -->
-  
+
+<div align="center">
+  <img src="https://cdn.myanimelist.net/s/common/uploaded_files/1446394608-91d452a88161df22ebe98de2b680e5a6.jpeg" />
+  <br>
+  <br>
+  <p>
+    "𝐈 𝐜𝐚𝐧'𝐭 𝐭𝐞𝐥𝐥 𝐢𝐟 𝐈 𝐡𝐚𝐯𝐞 𝐭𝐚𝐥𝐞𝐧𝐭 𝐨𝐫 𝐧𝐨𝐭 𝐮𝐧𝐭𝐢𝐥 𝐈 𝐭𝐫𝐲."<br>
+    - 𝑆𝑒𝑖𝑗𝑖 𝐴𝑚𝑎𝑠𝑎𝑤𝑎, 𝑊ℎ𝑖𝑠𝑝𝑒𝑟 𝑜𝑓 𝑡ℎ𝑒 𝐻𝑒𝑎𝑟𝑡
+  </p>
 </div>
 
 <h2 align=center>
@@ -42,23 +41,27 @@
   <a style="text-decoration: none; outline: none;" href="mailto:fitiavana.krishna@gmail.com">
     <img src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png" width=54>
   </a>
+  <!-- Add linkedin -->
+  <a style="text-decoration: none; outline: none;" href="https://www.linkedin.com/in/fitiavana-anhy-krishna">
+    <img src="https://cdn.icon-icons.com/icons2/652/PNG/512/linkedin_icon-icons.com_59873.png" width=54>
+  </a>
 </p>
 </h2>
 
 
 ### 👤 Who I am ?
-I'm a software engineering student with a passion for **elegant syntax and clean code**. I mainly code in [Python](https://www.python.org), and I'm always on the lookout for technologies and tools that improve the developer experience.
+👋 Hi there! I'm a 💻 software engineering student with a passion for elegant syntax and clean code. I mainly code in **Python**, and I'm always on the lookout for technologies and tools that improve the developer experience.
 
-My preferred field is **web scraping and automation**, so I love finding creative ways to streamline tasks and make life easier for myself and others.
+My preferred field is 🕷️ web scraping and automation, so I love finding creative ways to streamline tasks and make life easier for myself and others.
 
-And above all I love to learn new things and am constantly curious about the IT world.
+🌟 Above all, I love to learn new things and am constantly curious about the IT world.
 
-So, follow me on my journey as I learn and grow as a developer 🌠
+In addition to web scraping and automation, I also have experience in 📱 mobile and 🖥️ web development. If you're looking to brush up on your development skills or interested in automation, be sure to follow me as I continue to grow and learn 🌱!
 
 <ul style="text-align:center;">
-  <li>🔭 I’m currently working on my school projects</li>
-  <li>🌱 I’m currently learning Go</li>
-  <li>💬 Ask me about Python</li>
+  <li>🔭 I’m currently working on my <strong>school projects</strong></li>
+  <li>🌱 I’m currently learning <strong>Go</strong></li>
+  <li>💬 Ask me about <strong>Python</strong></li>
 </ul>
 
 
@@ -71,6 +74,7 @@ So, follow me on my journey as I learn and grow as a developer 🌠
   <img src="https://img.shields.io/badge/-PHP-1E87E3?style=for-the-badge&logo=php&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Java-E54C44?style=for-the-badge&logo=java&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Dart-00CBB2?style=for-the-badge&logo=dart&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Go-00a6d0?style=for-the-badge&logo=go&logoColor=FFFFFF"/>
   <br>
   <img src="https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
@@ -78,6 +82,8 @@ So, follow me on my journey as I learn and grow as a developer 🌠
   <img src="https://img.shields.io/badge/-Laravel-171923?style=for-the-badge&logo=laravel&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Selenium-16C636?style=for-the-badge&logo=selenium&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Playwright-1B1B1D?style=for-the-badge&logo=playwright&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Flutter-5cc2f0?style=for-the-badge&logo=flutter&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-React-212121?style=for-the-badge&logo=react&logoColor=FFFFFF"/>
   <br>
   <img src="https://img.shields.io/badge/-MongoDB-00E661?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-MySQL-005E86?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/>
@@ -98,6 +104,83 @@ So, follow me on my journey as I learn and grow as a developer 🌠
   <img src="https://img.shields.io/badge/-Manjaro%20Linux-33B959?style=for-the-badge&logo=manjaro&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Windows-357EC7?style=for-the-badge&logo=windows&logoColor=FFFFFF"/>
 </div>
+
+### 🚀 Top side projects that I have made
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <div align="center">
+        <img src="https://user-images.githubusercontent.com/86867653/194527446-23a0e4b8-7093-41f4-8eaf-a82c14cb64e3.png" alt="Project 1 image" width="100px">
+      </div>
+      <div>
+        <p align="center"><strong>Nakama chatbot</strong></p>
+        <p align="center">
+          <a href="https://web.facebook.com/nakama.bot">
+            <img src="https://krishna2206.github.io/assets/facebook-logo.avif" width="32">
+          </a>
+        </p>
+        <p><strong>Open Source:</strong> No</p>
+        <p>
+          <strong>Technologies Used:</strong><br>
+          <img src="https://img.shields.io/badge/-Python-396E9B?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+          <img src="https://img.shields.io/badge/-Go-00a6d0?style=for-the-badge&logo=go&logoColor=FFFFFF"/>
+          <img src="https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/>
+          <img src="https://img.shields.io/badge/-MongoDB-00E661?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>
+        </p>
+        <p>
+          <strong>Description:</strong><br>
+          A Facebook Messenger chatbot that helps Malagasy people access online content using just a Facebook data plan, without a full internet connection.
+        </p>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <img src="https://krishna2206.github.io/assets/google-logo.png" alt="Project 2 image" width="100px">
+      </div>
+      <div>
+        <p align="center"><strong>GoogleSeach Python wrapper</strong></p>
+        <p align="center">
+          <a href="https://github.com/krishna2206/google-search-python">
+            <img src="https://krishna2206.github.io/assets/github-icon.png" width="32">
+          </a>
+        </p>
+        <p><strong>Open Source:</strong> Yes</p>
+        <p>
+          <strong>Technologies Used:</strong><br>
+          <img src="https://img.shields.io/badge/-Python-396E9B?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+        </p>
+        <p>
+          <strong>Description:</strong><br>
+          An unofficial API Python wrapper to GoogleSearch. Scrapes the GoogleSearch website, reverse-engineering the AJAX API for Google Images.
+        </p>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+        <img src="https://krishna2206.github.io/assets/messenger-logo.png" alt="Project 3 image" width="100px">
+      </div>
+      <div>
+        <p align="center"><strong>GoogleSeach Python wrapper</strong></p>
+        <p align="center">
+          <a href="https://github.com/krishna2206/messenger-api-python">
+            <img src="https://krishna2206.github.io/assets/github-icon.png" width="32">
+          </a>
+        </p>
+        <p><strong>Open Source:</strong> Yes</p>
+        <p>
+          <strong>Technologies Used:</strong><br>
+          <img src="https://img.shields.io/badge/-Python-396E9B?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+        </p>
+        <p>
+          <strong>Description:</strong><br>
+          An unofficial API Python wrapper for the Facebook Messenger Platform API. 
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 ### 📈 GitHub stats
 <p align="center">
