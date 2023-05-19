@@ -161,7 +161,7 @@ In addition to web scraping and automation, I also have experience in 📱 mobil
         <img src="https://krishna2206.github.io/assets/messenger-logo.png" alt="Project 3 image" width="100px">
       </div>
       <div>
-        <p align="center"><strong>GoogleSeach Python wrapper</strong></p>
+        <p align="center"><strong>Messenger API Python wrapper</strong></p>
         <p align="center">
           <a href="https://github.com/krishna2206/messenger-api-python">
             <img src="https://krishna2206.github.io/assets/github-icon.png" width="32">
