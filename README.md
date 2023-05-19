@@ -111,7 +111,7 @@ In addition to web scraping and automation, I also have experience in 📱 mobil
   <tr>
     <td width="33%" valign="top">
       <div align="center">
-        <img src="https://user-images.githubusercontent.com/86867653/194527446-23a0e4b8-7093-41f4-8eaf-a82c14cb64e3.png" alt="Project 1 image" width="100px">
+        <img src="https://user-images.githubusercontent.com/86867653/233262224-d85ca946-8989-473b-848d-87736557b0fb.png" alt="Project 1 image" width="100px">
       </div>
       <div>
         <p align="center"><strong>Nakama chatbot</strong></p>
