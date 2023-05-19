@@ -65,7 +65,7 @@ In addition to web scraping and automation, I also have experience in 📱 mobil
 </ul>
 
 
-### 🧰 Technologies/Tools that I use/currently learning
+### 🧰 Technologies/Tools that I use
 <div align="left">
   <img src="https://img.shields.io/badge/-Python-396E9B?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-HTML-E44D26?&style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
