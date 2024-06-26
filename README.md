@@ -59,9 +59,10 @@ My preferred field is 🕷️ web scraping and automation, so I love finding cre
 In addition to web scraping and automation, I also have experience in 📱 mobile and 🖥️ web development. If you're looking to brush up on your development skills or interested in automation, be sure to follow me as I continue to grow and learn 🌱!
 
 <ul style="text-align:center;">
-  <li>🔭 I’m currently working on my <strong>school projects</strong></li>
-  <li>🌱 I’m currently learning <strong>Go</strong></li>
-  <li>💬 Ask me about <strong>Python</strong></li>
+  <li>🔭 I’m currently working on my <strong>school projects and my side projects</strong></li>
+  <li>🌱 I’m currently learning <strong>AI</strong></li>
+  <li>🛠️ I’m currently tinkering on <strong>Linux stuffs</strong></li>
+  <li>💬 Ask me about <strong>Python !</strong></li>
 </ul>
 
 
