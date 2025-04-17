@@ -1,25 +1,3 @@
-<!--
-  <p align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&color=%teal&size=20&center=true&vCenter=true&lines=Chatbot%2C%20Web%20scraping%2C%20Automation%3BPython%20is%20the%20best%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%3BLinux%F0%9F%90%A7%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F" alt="">
-  </p>
-
-  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
-  <h1 align=center>
-    Hello, I'm Krishna 👋
-  </h1>
-  -->
-  
-  <!--
-    <p>
-      <img src="https://user-images.githubusercontent.com/86867653/209480104-f7408663-8eda-4460-aae1-424d41848d54.png" />
-    </p>
-    <p>
-      "𝑰𝒇 𝒚𝒐𝒖 𝒅𝒐𝒏'𝒕 𝒕𝒓𝒚, 𝒚𝒐𝒖'𝒍𝒍 𝒏𝒆𝒗𝒆𝒓 𝒌𝒏𝒐𝒘 𝒘𝒉𝒂𝒕 𝒚𝒐𝒖 𝒄𝒐𝒖𝒍𝒅 𝒉𝒂𝒗𝒆 𝒂𝒄𝒉𝒊𝒆𝒗𝒆𝒅."<br>
-      - Sophie, Howl's Moving Castle
-    </p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=276CC9&width=435&lines=The+name's+%F0%9D%90%8A%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%A1%F0%9D%90%A7%F0%9D%90%9A;21+years+old;He%2FHim;Python+developer;Chatbot%2C+Web+scraping%2C+Automation;Linux+user+%F0%9F%90%A7%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
-  -->
-
 <div align="center">
   <img src="https://cdn.myanimelist.net/s/common/uploaded_files/1446394608-91d452a88161df22ebe98de2b680e5a6.jpeg" />
   <br>
@@ -100,6 +78,7 @@ In addition to web scraping and automation, I also have experience in 📱 mobil
   <img src="https://img.shields.io/badge/-Windows-357EC7?style=for-the-badge&logo=windows&logoColor=FFFFFF"/>
 </div>
 
+<!--
 ### 🚀 Top side projects that I have made
 
 <table>
@@ -175,6 +154,7 @@ In addition to web scraping and automation, I also have experience in 📱 mobil
     </td>
   </tr>
 </table>
+-->
 
 
 ### 📈 GitHub stats
