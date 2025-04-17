@@ -59,7 +59,7 @@ My preferred field is 🕷️ web scraping and automation, so I love finding cre
 In addition to web scraping and automation, I also have experience in 📱 mobile and 🖥️ web development. If you're looking to brush up on your development skills or interested in automation, be sure to follow me as I continue to grow and learn 🌱!
 
 <ul style="text-align:center;">
-  <li>🔭 I’m currently working on my <strong>school projects and my side projects</strong></li>
+  <li>🔭 I’m currently working on my <strong>side projects</strong></li>
   <li>🌱 I’m currently learning <strong>AI</strong></li>
   <li>🛠️ I’m currently tinkering on <strong>Linux stuffs</strong></li>
   <li>💬 Ask me about <strong>Python !</strong></li>
@@ -71,35 +71,29 @@ In addition to web scraping and automation, I also have experience in 📱 mobil
   <img src="https://img.shields.io/badge/-Python-396E9B?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-HTML-E44D26?&style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-CSS-42A5F5?&style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=3B3931"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3274c0?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-PHP-1E87E3?style=for-the-badge&logo=php&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Java-E54C44?style=for-the-badge&logo=java&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-Dart-00CBB2?style=for-the-badge&logo=dart&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Go-00a6d0?style=for-the-badge&logo=go&logoColor=FFFFFF"/>
   <br>
   <img src="https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Symfony-000?style=for-the-badge&logo=symfony&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Laravel-171923?style=for-the-badge&logo=laravel&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-Selenium-16C636?style=for-the-badge&logo=selenium&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Playwright-1B1B1D?style=for-the-badge&logo=playwright&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-Flutter-5cc2f0?style=for-the-badge&logo=flutter&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-React-212121?style=for-the-badge&logo=react&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Expo-FFFFFF?style=for-the-badge&logo=expo&logoColor=000"/>
   <br>
   <img src="https://img.shields.io/badge/-MongoDB-00E661?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-MySQL-005E86?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=FFFFFF"/>
   <br>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/-Ubuntu-D64613?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Manjaro%20Linux-33B959?style=for-the-badge&logo=manjaro&logoColor=FFFFFF"/>
